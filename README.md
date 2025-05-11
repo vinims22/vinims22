@@ -2,7 +2,7 @@
 - 👀 Estou interessado em desenvolvimento web, machine learning, open source e outros
 - 🌱 Atualmente estou cursando Engenharia de software
 - 💞️ Estou procurando colaborar em projetos que ajudem iniciantes a programar
-- 📫 viniciusmelonios@gmail.com/ https://www.linkedin.com/in/vinicius-melonio-9a450b365?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIsI8ZRQsRxepkBOGwa7nEQ%3D%3D
+- 📫 viniciusmelonios@gmail.com
 - ⚡ Eu adoro ler ficçao cientifica e adoro jogos
 
 <!---
