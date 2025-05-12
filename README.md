@@ -9,8 +9,7 @@
 vinims22/vinims22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Meios-de-contato
+<h2>Meios de contato</h2>
 
-- Email: viniciusmelonios@gmail.com  
-- LinkedIn: [linkedin.com/in/vinicius-melonio-](https://www.linkedin.com/in/vinicius-melonio-)  
-- Instagram: [@vini_me91](https://www.instagram.com/vini_me91/)
+<a href="https://www.instagram.com/vini_me91/" class="btn instagram" target="_blank">Instagram</a>
+<a href="https://www.linkedin.com/in/vinicius-melonio-" class="btn linkedin" target="_blank">LinkedIn</a>
