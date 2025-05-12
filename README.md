@@ -10,14 +10,12 @@ vinims22/vinims22 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-</head>
-<body>
-    <h2>Meios de contato</h2>
-    <a href="https://www.instagram.com/vini_me91/" class="btn instagram" target="_blank">Instagram</a>
-    <a href="https://www.linkedin.com/in/vinicius-melonio-9a450b365/" class="btn linkedin" target="_blank">LinkedIn</a>
-    
+## Meios de contato
+
+[<img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/seu_usuario)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/seu_usuario)
+
 ## GitHub Stats
 
-![Seu Nome GitHub Stats](https://github-readme-stats.vercel.app/api?username=jywago8bf&show_icons=true&theme=dark)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jywago8bf&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jywago8bf&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jywago8bf&layout=compact&theme=dark)
