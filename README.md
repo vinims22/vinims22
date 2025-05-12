@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://www.instagram.com/vini_me91/" class="btn instagram" target="_blank">Instagram</a>
 <a href="https://www.linkedin.com/in/vinicius-melonio-9a450b365/" class="btn linkedin" target="_blank">LinkedIn</a>
-
+instagram {background-color: #E1306C;}
         
