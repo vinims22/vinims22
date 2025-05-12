@@ -14,3 +14,38 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.instagram.com/vini_me91/" class="btn instagram" target="_blank">Instagram</a>
 <a href="https://www.linkedin.com/in/vinicius-melonio-" class="btn linkedin" target="_blank">LinkedIn</a>
 
+  body {
+            font-family: sans-serif;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px 5px;
+            border-radius: 5px;
+            font-weight: bold;
+            color: white;
+            text-decoration: none;
+        }
+
+        .instagram {
+            background-color: #E1306C;
+        }
+
+        .linkedin {
+            background-color: #0077B5;
+        }
+    </style>
+</head>
+<body>
+    <h2>Meios de contato</h2>
+    <a href="https://www.instagram.com/vini_me91/" class="btn instagram" target="_blank">Instagram</a>
+    <a href="https://www.linkedin.com/in/vinicius-melonio-" class="btn linkedin" target="_blank">LinkedIn</a>
+</body>
+</html>
