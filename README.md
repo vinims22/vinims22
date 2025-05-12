@@ -10,7 +10,10 @@ vinims22/vinims22 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+</head>
+<body>
     <h2>Meios de contato</h2>
     <a href="https://www.instagram.com/vini_me91/" class="btn instagram" target="_blank">Instagram</a>
     <a href="https://www.linkedin.com/in/vinicius-melonio-" class="btn linkedin" target="_blank">LinkedIn</a>
-
+</body>
+</html>
