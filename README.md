@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/vinicius-melonio-" class="btn linkedin" target="_blank">LinkedIn</a>
 
   
-            padding: 20px;
+            
             background-color: #f9f9f9;
-        }
+        
