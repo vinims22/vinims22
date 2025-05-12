@@ -14,8 +14,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.instagram.com/vini_me91/" class="btn instagram" target="_blank">Instagram</a>
 <a href="https://www.linkedin.com/in/vinicius-melonio-" class="btn linkedin" target="_blank">LinkedIn</a>
 
-  body {
-            font-family: sans-serif;
+  
             padding: 20px;
             background-color: #f9f9f9;
         }
