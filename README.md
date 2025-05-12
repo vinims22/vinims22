@@ -51,3 +51,4 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.linkedin.com/in/vinicius-melonio-" class="btn linkedin" target="_blank">LinkedIn</a>
 </body>
 </html>
+instagram vermelho com letra branca
